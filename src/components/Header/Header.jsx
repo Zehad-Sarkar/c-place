@@ -5,7 +5,7 @@ const Header = () => {
     <header className="items-center justify-between mb-16 md:flex">
       <div className="mb-4">
         <Link to="/">
-          <h2 className="text-3xl font-bold">Career Hub</h2>
+          <h2 className="text-3xl font-bold">Career Place</h2>
         </Link>
       </div>
 
